@@ -162,7 +162,7 @@ input {
 .overlay {
 	background: #F2eee3;
 	background: -webkit-linear-gradient(to right, #F2eee3, #e7d4c5);
-	background: linear-gradient(to right, #F2eee3, #54eebb);
+	background: linear-gradient(to right, #F2eee3, #81e5ec);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 0 0;
@@ -216,7 +216,7 @@ input {
 }
 
 .social-container a {
-	border: 1px solid rgb(226, 33, 200);
+	border: 1px solid black;
 	border-radius: 50%;
 	display: inline-flex;
 	justify-content: center;
@@ -224,5 +224,5 @@ input {
 	margin: 0 5px;
 	height: 40px;
 	width: 40px;
-	background: #0893e4;
+	background: #7be1ee;
 }
